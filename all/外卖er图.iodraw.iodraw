@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-1" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;外卖类别表（&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;Category）&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1170" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;商家信息表&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;(Store)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="-470" width="120" height="60" as="geometry" />
@@ -378,6 +378,9 @@
             <mxPoint x="-780" y="209" as="sourcePoint" />
             <mxPoint x="-660" y="209" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rJOEX7lF-JxTqnJ5cKVR-94" target="rJOEX7lF-JxTqnJ5cKVR-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-94" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1010" y="170" width="60" height="30" as="geometry" />
