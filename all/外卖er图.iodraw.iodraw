@@ -170,10 +170,10 @@
           <mxGeometry x="1970" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-46" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Email&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" width="120" height="80" as="geometry" />
+          <mxGeometry x="1480" y="-90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-47" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;address&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="-130" width="120" height="80" as="geometry" />
+          <mxGeometry x="1654" y="-90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-48" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Account&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2030" y="-30" width="120" height="80" as="geometry" />
