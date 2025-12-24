@@ -196,11 +196,11 @@
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-46" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-47" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="370" width="120" height="80" as="geometry" />
+        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-47" value="票价(price)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-48" value="时间(time)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="1030" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -238,7 +238,7 @@
             <mxPoint x="900" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Ze0XDQyC_YFkA2Joh5AI-4" target="Ze0XDQyC_YFkA2Joh5AI-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="976" y="240" as="sourcePoint" />
             <mxPoint x="910" y="380" as="targetPoint" />
