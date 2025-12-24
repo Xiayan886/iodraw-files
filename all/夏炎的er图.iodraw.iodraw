@@ -16,7 +16,7 @@
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-4" value="排场(schedule)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-5" value="电影票(ticket)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
