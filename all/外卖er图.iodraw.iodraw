@@ -41,16 +41,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-11" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;&lt;u&gt;StoreId&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="-690" width="120" height="80" as="geometry" />
+          <mxGeometry x="-850" y="-710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-12" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;StoreName&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="-710" width="120" height="80" as="geometry" />
+          <mxGeometry x="-650" y="-710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-14" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Address&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="-570" width="120" height="80" as="geometry" />
+          <mxGeometry x="-510" y="-720" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-15" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;PersonSpending&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="-470" width="120" height="80" as="geometry" />
+          <mxGeometry x="-350" y="-710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rJOEX7lF-JxTqnJ5cKVR-11" target="rJOEX7lF-JxTqnJ5cKVR-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
