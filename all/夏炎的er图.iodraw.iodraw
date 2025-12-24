@@ -11,7 +11,7 @@
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-3" value="放映厅(hall)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="-190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-4" value="排场(schedule)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1215" y="160" width="120" height="60" as="geometry" />
