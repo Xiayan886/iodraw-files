@@ -100,7 +100,7 @@
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-29" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Title&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="510" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-30" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;color:rgb(51,51,51);&#xa;letter-spacing:0.0000pt;text-transform:none;font-style:normal;&#xa;font-size:8.0000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;GoodsId&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-30" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;color:rgb(51,51,51);&lt;br/&gt;letter-spacing:0.0000pt;text-transform:none;font-style:normal;&lt;br/&gt;font-size:8.0000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;&lt;u&gt;GoodsId&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-730" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rJOEX7lF-JxTqnJ5cKVR-30" target="rJOEX7lF-JxTqnJ5cKVR-3">
