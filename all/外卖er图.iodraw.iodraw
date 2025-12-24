@@ -386,7 +386,7 @@
           <mxGeometry x="-760" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-96" value="提供" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-360" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-97" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rJOEX7lF-JxTqnJ5cKVR-96" target="rJOEX7lF-JxTqnJ5cKVR-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -403,8 +403,8 @@
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-99" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-100" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="160" width="60" height="30" as="geometry" />
+        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-100" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
