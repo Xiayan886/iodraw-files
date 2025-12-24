@@ -17,7 +17,7 @@
           <mxGeometry x="980" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-5" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;客户信息表&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;(Customers)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-6" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;订单明细表&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;(OrderDetails)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1740" y="40" width="120" height="60" as="geometry" />
@@ -158,13 +158,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-42" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;&lt;u&gt;CustID&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="140" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-43" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;CustName&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="330" width="120" height="80" as="geometry" />
+          <mxGeometry x="260" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-44" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;LoginPwd&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="390" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-45" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;phone&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="480" width="120" height="80" as="geometry" />
