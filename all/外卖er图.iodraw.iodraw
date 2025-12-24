@@ -17,7 +17,7 @@
           <mxGeometry x="1010" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-5" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;客户信息表&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;(Customers)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-6" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;订单明细表&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;(OrderDetails)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="720" width="120" height="60" as="geometry" />
@@ -158,25 +158,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-42" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;&lt;u&gt;CustID&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="140" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-43" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;CustName&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="294" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-44" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;LoginPwd&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="450" y="540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-45" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;phone&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-46" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Email&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-90" width="120" height="80" as="geometry" />
+          <mxGeometry x="100" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-47" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;address&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="-90" width="120" height="80" as="geometry" />
+          <mxGeometry x="260" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-48" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Account&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-90" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rJOEX7lF-JxTqnJ5cKVR-42" target="rJOEX7lF-JxTqnJ5cKVR-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -419,6 +419,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="230" as="sourcePoint" />
             <mxPoint x="640" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rJOEX7lF-JxTqnJ5cKVR-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-107" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
