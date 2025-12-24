@@ -8,10 +8,10 @@
           <mxGeometry x="-820" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;商家信息表&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;(Store)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="-410" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-3" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;外卖商品信息表（&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;Goods）&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;订单表订单信息表（&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;Orders）&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="40" width="120" height="60" as="geometry" />
