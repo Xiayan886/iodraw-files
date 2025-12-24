@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-1" value="电影(movie)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-2" value="顾客(customer)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="70" width="120" height="60" as="geometry" />
@@ -19,10 +19,10 @@
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-5" value="电影票(ticket)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Ze0XDQyC_YFkA2Joh5AI-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="250" as="sourcePoint" />
-            <mxPoint x="450" y="200" as="targetPoint" />
+            <mxPoint x="40" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
