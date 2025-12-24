@@ -7,7 +7,7 @@
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-1" value="电影(movie)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-2" value="顾客(customer)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
