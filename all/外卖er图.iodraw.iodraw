@@ -44,13 +44,13 @@
           <mxGeometry x="-820" y="-440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-12" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;StoreName&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="-830" y="-590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-14" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Address&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="-90" width="120" height="80" as="geometry" />
+          <mxGeometry x="-220" y="-570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-15" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;PersonSpending&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="-90" width="120" height="80" as="geometry" />
+          <mxGeometry x="-250" y="-470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rJOEX7lF-JxTqnJ5cKVR-11" target="rJOEX7lF-JxTqnJ5cKVR-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -98,10 +98,10 @@
           <mxGeometry x="-550" y="-90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-29" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Title&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="-940" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-30" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;color:rgb(51,51,51);&lt;br/&gt;letter-spacing:0.0000pt;text-transform:none;font-style:normal;&lt;br/&gt;font-size:8.0000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;&lt;u&gt;GoodsId&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-900" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="-970" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rJOEX7lF-JxTqnJ5cKVR-30" target="rJOEX7lF-JxTqnJ5cKVR-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
