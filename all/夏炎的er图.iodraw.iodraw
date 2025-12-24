@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-1" value="电影(movie)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1740" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-2" value="顾客(customer)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
@@ -307,11 +307,14 @@
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-86" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-87" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-87" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1380" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ze0XDQyC_YFkA2Joh5AI-88" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="1630" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze0XDQyC_YFkA2Joh5AI-89" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1645" y="158" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
