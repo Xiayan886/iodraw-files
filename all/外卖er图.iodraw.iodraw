@@ -77,25 +77,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-22" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;CateId&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="-160" y="505" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-23" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;UnitPrice&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-24" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;PackingExpense&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="330" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-25" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Roat&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="120" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-26" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Discount&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="-270" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-27" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;StoreId&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-28" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Description&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="545" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-29" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Title&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="280" width="120" height="80" as="geometry" />
@@ -156,6 +156,9 @@
             <mxPoint x="230" y="300" as="sourcePoint" />
             <mxPoint x="280" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-41" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
