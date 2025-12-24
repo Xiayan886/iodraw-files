@@ -17,7 +17,7 @@
           <mxGeometry x="1010" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-5" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;客户信息表&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;(Customers)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-6" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;订单明细表&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;(OrderDetails)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="720" width="120" height="60" as="geometry" />
