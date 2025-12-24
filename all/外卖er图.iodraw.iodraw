@@ -10,13 +10,13 @@
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;商家信息表&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;(Store)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-3" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;外卖商品信息表（&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;Goods）&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-5" value="&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;客户信息表&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;(Customers)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
