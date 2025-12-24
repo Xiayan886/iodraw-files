@@ -157,9 +157,6 @@
             <mxPoint x="280" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-41" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="440" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-42" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;CustID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="10" width="120" height="80" as="geometry" />
         </mxCell>
@@ -172,13 +169,13 @@
         <mxCell id="rJOEX7lF-JxTqnJ5cKVR-45" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;phone&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-46" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-46" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Email&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-47" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-47" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;address&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-48" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rJOEX7lF-JxTqnJ5cKVR-48" value="&lt;span style=&quot;font-family: 微软雅黑; color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 8pt;&quot;&gt;Account&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="420" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
